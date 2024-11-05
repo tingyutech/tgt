@@ -22,7 +22,7 @@ struct concat_buf;
 #define PRODUCT_ID_LEN		16
 #define PRODUCT_REV_LEN		4
 #define BLOCK_LIMITS_VPD_LEN	0x3C
-#define BDC_VPD_LEN		0x40
+#define BDC_VPD_LEN		60
 #define LBP_VPD_LEN		4
 
 #define PCODE_SHIFT		7
